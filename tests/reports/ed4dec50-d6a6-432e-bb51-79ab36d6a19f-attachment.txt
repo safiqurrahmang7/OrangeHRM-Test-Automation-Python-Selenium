@@ -1,0 +1,4 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\DELL\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
